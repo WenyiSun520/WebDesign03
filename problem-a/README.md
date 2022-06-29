@@ -15,13 +15,13 @@ Instructions for achieving this appearance are detailed below. Note that you wil
 
 2. Add rules to give the page's content appropriate colors, fonts, and sizes:
 
-   <mark> - The body text should be colored `#535353`, while the headings (`<h1>` and `<h2>`) should use [UW purple](https://www.washington.edu/brand/graphic-elements/primary-color-palette/) (look it up!).
+   == - The body text should be colored `#535353`, while the headings (`<h1>` and `<h2>`) should use [UW purple](https://www.washington.edu/brand/graphic-elements/primary-color-palette/) (look it up!).
   
     - The body and headers should utilize the [UW Fonts](https://www.washington.edu/brand/graphic-elements/font-download/): the headings should use the font for "Primary Headlines", and the body text should use the font for "Body". Notice that the headings are in "black" (a font weight of `900`).
 
         You should access these fonts via a `<link>` in the HTML to the [Google Fonts](https://fonts.google.com/) collection (be sure and get the correct weight of "black" for headings!).
 
-        Yes, it is common to have to look up branding guidelines and adapt those to a web site!</mark>
+        Yes, it is common to have to look up branding guidelines and adapt those to a web site!==
 
     - Additionally, make the top-level heading have a `font-size` of 2.5x the _root element's size_.
 
